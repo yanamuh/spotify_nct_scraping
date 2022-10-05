@@ -1,0 +1,51 @@
+artist_name,name,album,popularity,track_number,duration_ms,explicit,id,track_uri,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,tempo,time_signature
+NCT 127,2 Baddies,2 Baddies - The 4th Album,69,2,230293,False,1WKLxJpDqkQ9x1qEDNutoX,spotify:track:1WKLxJpDqkQ9x1qEDNutoX,0.596,0.921,2,-2.372,1,0.258,0.153,0.0,0.0922,171.96,4
+NCT 127,Cherry Bomb,NCT #127 CHERRY BOMB– The 3rd Mini Album,66,1,236667,False,3o8QzWsiiqTUVgBZfHgF58,spotify:track:3o8QzWsiiqTUVgBZfHgF58,0.713,0.603,6,-4.896,0,0.287,0.000759,5.51e-06,0.0453,78.027,4
+NCT 127,So Am I (feat. NCT 127),So Am I (feat. NCT 127),64,1,185034,False,6hIP8wBnZ74qA0xOXhXt3v,spotify:track:6hIP8wBnZ74qA0xOXhXt3v,0.678,0.678,6,-4.724,1,0.0438,0.0461,0.0,0.0751,130.05,4
+NCT 127,Designer,2 Baddies - The 4th Album,62,5,237080,False,4axTxw4EXSVSGm6f6vxTdZ,spotify:track:4axTxw4EXSVSGm6f6vxTdZ,0.706,0.906,1,-3.379,1,0.0932,0.0978,0.0,0.111,92.965,4
+NCT 127,Favorite (Vampire),Favorite - The 3rd Album Repackage,64,1,215586,False,2R8MZR1RCP4cIJITHDPRbY,spotify:track:2R8MZR1RCP4cIJITHDPRbY,0.561,0.758,5,-3.87,0,0.0478,0.000831,3.08e-06,0.15,149.944,4
+NCT 127,Kick It,NCT #127 Neo Zone - The 2nd Album,63,2,233013,False,1ayaOin9hxCtyhg4UsBTpg,spotify:track:1ayaOin9hxCtyhg4UsBTpg,0.681,0.847,7,-2.462,1,0.0869,0.0306,0.0,0.0808,167.031,4
+NCT 127,Faster,2 Baddies - The 4th Album,63,1,170626,False,46hCrsB4mC1IWcYOMQqNWA,spotify:track:46hCrsB4mC1IWcYOMQqNWA,0.827,0.793,1,-4.176,1,0.118,0.0251,0.0,0.241,96.973,4
+NCT 127,Regular - English Version,NCT #127 Regular-Irregular - The 1st Album,62,10,219106,False,4KqPuyZdcjXuRqXSARnt6r,spotify:track:4KqPuyZdcjXuRqXSARnt6r,0.741,0.747,9,-5.459,0,0.0956,0.263,5.15e-06,0.266,134.039,4
+NCT 127,Time Lapse,2 Baddies - The 4th Album,62,3,215306,False,3FxGTxebY5j4Etl1KbIIZl,spotify:track:3FxGTxebY5j4Etl1KbIIZl,0.484,0.9,6,-3.567,0,0.209,0.0589,0.0,0.288,84.901,4
+NCT 127,Sticker,Sticker - The 3rd Album,62,1,227773,False,1iGQpclvzonFNzy7Ko89V7,spotify:track:1iGQpclvzonFNzy7Ko89V7,0.527,0.769,2,-0.419,1,0.28,0.311,0.0,0.742,156.032,4
+NCT,BOSS,NCT 2018 EMPATHY,66,2,210641,False,0ErzcmZ2gIwX7X0xSMQPix,spotify:track:0ErzcmZ2gIwX7X0xSMQPix,0.787,0.543,10,-6.7,0,0.037,0.0233,0.0,0.0861,99.026,4
+NCT,Baby Don’t Stop,NCT 2018 EMPATHY,64,3,183019,False,1EYSS9Lp7a9f20C3FaOVgI,spotify:track:1EYSS9Lp7a9f20C3FaOVgI,0.827,0.739,8,-6.391,1,0.0744,0.0214,4.13e-06,0.043,95.999,4
+NCT,The 7th Sense,NCT 2018 EMPATHY,60,9,214035,False,6BdchFAP4TUZUceAsAEb5U,spotify:track:6BdchFAP4TUZUceAsAEb5U,0.682,0.502,2,-9.507,1,0.0713,0.0124,8.45e-06,0.107,108.08,4
+NCT,TOUCH,NCT 2018 EMPATHY,59,5,189077,False,1mdEvT7X3Rs7vL75fRb8oo,spotify:track:1mdEvT7X3Rs7vL75fRb8oo,0.595,0.806,8,-4.644,1,0.141,0.0391,0.0,0.36,93.126,4
+NCT,GO,NCT 2018 EMPATHY,55,4,207173,False,741wqAxJIPwjHWLjyG2so6,spotify:track:741wqAxJIPwjHWLjyG2so6,0.76,0.928,8,-3.645,0,0.215,0.308,0.0,0.072,131.985,4
+NCT,WITHOUT YOU,NCT 2018 EMPATHY,54,10,205533,False,78DVHbAahuQF56gOC4GnuN,spotify:track:78DVHbAahuQF56gOC4GnuN,0.578,0.942,2,-1.693,1,0.0556,0.0428,0.0,0.0833,127.835,4
+NCT,Black on Black,NCT 2018 EMPATHY,53,7,197980,False,1qq7YnBOcXtfX3tCCMJllG,spotify:track:1qq7YnBOcXtfX3tCCMJllG,0.523,0.864,10,-4.746,0,0.359,0.106,0.000454,0.0672,142.11,4
+NCT,YESTODAY,NCT 2018 EMPATHY,51,6,196571,False,6OyLuTMyY9dOswKPyIT8SO,spotify:track:6OyLuTMyY9dOswKPyIT8SO,0.683,0.92,9,-3.322,0,0.0924,0.0294,0.0,0.295,94.959,4
+NCT,INTRO: Neo Got My Back,NCT 2018 EMPATHY,49,1,117326,False,46JuEtCV69InGm7hONKrgA,spotify:track:46JuEtCV69InGm7hONKrgA,0.828,0.689,5,-7.97,1,0.0699,0.32,0.0118,0.11,100.042,4
+NCT,텐데…Timeless,NCT 2018 EMPATHY,48,8,250826,False,4SBdExnMWp7er8KxnpPzpG,spotify:track:4SBdExnMWp7er8KxnpPzpG,0.557,0.442,1,-4.595,1,0.0314,0.316,0.0,0.138,127.873,4
+NCT U,Make A Wish (Birthday Song),NCT RESONANCE Pt. 1 - The 2nd Album,56,1,229400,False,6FdShjf7nA2cqEnpv1tIia,spotify:track:6FdShjf7nA2cqEnpv1tIia,0.732,0.795,8,-2.263,1,0.1,0.0632,0.0,0.0569,100.954,4
+NCT U,90's Love,NCT RESONANCE Pt. 2 - The 2nd Album,54,1,213666,False,64EDGnUytmCV7TfOo67810,spotify:track:64EDGnUytmCV7TfOo67810,0.743,0.924,1,-1.501,0,0.0642,0.0688,0.0,0.112,107.995,4
+NCT U,Universe (Let's Play Ball),Universe (Let's Play Ball),50,1,231466,False,6hHrPwQYGp9kPL7xLZviBS,spotify:track:6hHrPwQYGp9kPL7xLZviBS,0.587,0.895,5,-1.591,0,0.139,0.0524,0.0,0.0402,179.975,4
+NCT U,OK!,Universe - The 3rd Album,55,4,229000,False,5d2mc1dOSOLw25fJ7WH5fl,spotify:track:5d2mc1dOSOLw25fJ7WH5fl,0.757,0.775,10,-3.442,0,0.121,0.0305,0.0,0.0999,140.97,4
+NCT U,My Everything,NCT RESONANCE Pt. 2 - The 2nd Album,43,7,221240,False,7IXi8qEDc9oASO5LTx19nT,spotify:track:7IXi8qEDc9oASO5LTx19nT,0.605,0.321,7,-7.742,1,0.0288,0.869,0.0,0.101,71.981,3
+NCT U,Rain Day,Rain Day - SM STATION : NCT LAB,57,1,190560,False,07lK6LoH13tGwxziXWIp16,spotify:track:07lK6LoH13tGwxziXWIp16,0.686,0.681,6,-4.495,0,0.0672,0.285,0.0,0.188,95.108,4
+NCT U,From Home,NCT RESONANCE Pt. 1 - The 2nd Album,45,11,260320,False,3SHcE3vk03KHPKHzvTKs5j,spotify:track:3SHcE3vk03KHPKHzvTKs5j,0.622,0.859,1,-3.034,1,0.0563,0.516,0.0,0.361,131.989,4
+NCT U,Misfit,NCT RESONANCE Pt. 1 - The 2nd Album,46,2,215853,False,4W8cwOcrcDzbWQSWqtKG3g,spotify:track:4W8cwOcrcDzbWQSWqtKG3g,0.783,0.984,2,-1.785,1,0.114,0.14,0.0,0.309,105.963,4
+NCT U,Round&Round,Universe - The 3rd Album,46,8,203173,False,39Z2mZBU3dRBIMro4669uo,spotify:track:39Z2mZBU3dRBIMro4669uo,0.629,0.729,2,-3.327,0,0.0424,0.317,0.0,0.126,140.021,4
+NCT U,"Maniac (Sung by DOYOUNG, HAECHAN) (Prod. RYAN JHUN)",MAXIS BY RYAN JHUN PT. 1,52,1,208266,False,0zcORXxG1FGC3QzWYOBzr4,spotify:track:0zcORXxG1FGC3QzWYOBzr4,0.747,0.856,2,-4.122,1,0.125,0.0628,0.0,0.0844,106.91,4
+NCT DREAM,Beatbox,Beatbox - The 2nd Album Repackage,75,1,205133,False,0CatzXH85XWyBqqdB6qPMB,spotify:track:0CatzXH85XWyBqqdB6qPMB,0.857,0.7,4,-4.189,0,0.074,0.0411,0.0,0.0334,93.997,4
+NCT DREAM,Life Is Still Going On,Hello Future - The 1st Album Repackage,69,5,218586,False,3THdOskGxdJcRbp0DcS4s0,spotify:track:3THdOskGxdJcRbp0DcS4s0,0.681,0.749,0,-3.436,0,0.0701,0.158,0.0,0.303,150.039,4
+NCT DREAM,Hello Future,Hello Future - The 1st Album Repackage,68,1,220920,False,332GJ8ykVuEt3jOT1sy7j6,spotify:track:332GJ8ykVuEt3jOT1sy7j6,0.545,0.803,1,-2.283,1,0.0526,0.0261,0.0,0.114,170.006,4
+NCT DREAM,Hot Sauce,Hot Sauce - The 1st Album,68,1,195813,False,6B8MM3PVQtUbZLay7tP7er,spotify:track:6B8MM3PVQtUbZLay7tP7er,0.769,0.926,6,-1.627,1,0.0788,0.0127,0.0,0.285,100.034,4
+NCT DREAM,Never Goodbye,Glitch Mode - The 2nd Album,67,10,212800,False,5EAfUqytXYbH0yUZR3QGli,spotify:track:5EAfUqytXYbH0yUZR3QGli,0.786,0.572,11,-4.967,1,0.0399,0.282,0.0,0.0808,91.977,4
+NCT DREAM,Glitch Mode,Glitch Mode - The 2nd Album,67,2,207053,False,5b1PngLlxc7hj3fJXrE2Zm,spotify:track:5b1PngLlxc7hj3fJXrE2Zm,0.634,0.78,0,-2.323,0,0.0963,0.0164,0.0,0.141,166.923,4
+NCT DREAM,BOOM,We Boom - The 3rd Mini Album,66,1,195080,False,6rcn967QN5JtkPOBDwYIuT,spotify:track:6rcn967QN5JtkPOBDwYIuT,0.914,0.516,5,-4.178,0,0.0918,0.131,0.0,0.0441,119.969,4
+NCT DREAM,To My First,Beatbox - The 2nd Album Repackage,65,5,183293,False,7cjojsJwncbiCI0rqOOf9j,spotify:track:7cjojsJwncbiCI0rqOOf9j,0.661,0.667,4,-3.875,0,0.0398,0.233,0.0,0.105,77.006,4
+NCT DREAM,Dive Into You,Hot Sauce - The 1st Album,63,3,192826,False,0z3ZZ2JKusRpapstADTxVf,spotify:track:0z3ZZ2JKusRpapstADTxVf,0.767,0.715,4,-3.171,1,0.0493,0.23,0.0,0.139,75.968,4
+NCT DREAM,Saturday Drip,Glitch Mode - The 2nd Album,62,7,180600,False,2ohOA4P55RsoU1bOanNGyB,spotify:track:2ohOA4P55RsoU1bOanNGyB,0.848,0.815,2,-2.058,1,0.0498,0.0474,0.0,0.0379,113.024,4
+WayV,Love Talk - English Version,Love Talk (English Version),70,1,232150,False,2e3cJdJ8xWwydl8JIYlCqB,spotify:track:2e3cJdJ8xWwydl8JIYlCqB,0.751,0.719,6,-5.198,0,0.0373,0.142,0.0,0.148,98.01,4
+WayV,Love Talk,Take Over The Moon - The 2nd Mini Album,58,3,232694,False,6bc8VmlNt5S9WJlyw8bBdd,spotify:track:6bc8VmlNt5S9WJlyw8bBdd,0.742,0.749,6,-5.06,0,0.0378,0.232,0.0,0.119,98.013,4
+WayV,Kick Back,Kick Back - The 3rd Mini Album,57,1,230773,False,1hXbbVF57nIcxIugYYtdms,spotify:track:1hXbbVF57nIcxIugYYtdms,0.643,0.862,2,-3.166,1,0.0744,0.0268,0.0,0.0801,90.025,4
+WayV,Action Figure,Kick Back - The 3rd Mini Album,57,2,199666,False,1Z9r4lrkfPK41tfqM6UKMx,spotify:track:1Z9r4lrkfPK41tfqM6UKMx,0.701,0.787,11,-2.56,0,0.0523,0.137,0.0,0.147,102.018,4
+WayV,Miracle,Universe - The 3rd Album,48,9,190333,False,6zjJo0D4AsE9ZcogcfA687,spotify:track:6zjJo0D4AsE9ZcogcfA687,0.746,0.774,5,-3.39,0,0.0379,0.137,0.0,0.102,98.007,4
+WayV,Turn Back Time,Awaken The World - The 1st Album,55,1,218680,False,4aHqVuUrfYMPro2bqn5Fse,spotify:track:4aHqVuUrfYMPro2bqn5Fse,0.615,0.889,11,-3.698,1,0.0427,0.00354,0.0,0.159,134.958,4
+WayV,Moonwalk,Take Over The Moon - The 2nd Mini Album,54,1,222686,False,0nNrpT5W9YOvR3bEa7ym12,spotify:track:0nNrpT5W9YOvR3bEa7ym12,0.734,0.629,2,-6.299,1,0.0543,0.0507,0.0,0.0899,109.982,4
+WayV,Nectar,NCT RESONANCE Pt. 1 - The 2nd Album,47,8,198680,False,0yWIL3sx36cPUrsj4w82zL,spotify:track:0yWIL3sx36cPUrsj4w82zL,0.791,0.821,11,-3.329,0,0.0414,0.214,0.0,0.0828,115.076,4
+WayV,Take Off,Take Off - The 1st Mini Album,53,1,233720,False,1FU3x0eu9cUl3AltO6t2KH,spotify:track:1FU3x0eu9cUl3AltO6t2KH,0.723,0.827,8,-5.417,1,0.0347,0.0119,0.0,0.183,103.023,4
+WayV,Bad Alive - English Version,Bad Alive (English Version),53,1,229266,False,4h1V7NLdMV1JpuaJbJAA9t,spotify:track:4h1V7NLdMV1JpuaJbJAA9t,0.667,0.84,3,-3.363,0,0.0303,0.0017,0.000175,0.332,142.014,4
